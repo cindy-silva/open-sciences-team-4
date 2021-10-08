@@ -2,9 +2,14 @@
 
 ## Team Participants:
 
-Eva
-Dennis
-Maïlys
-Manu
-Cindy Evellyn
-Paula
+- Eva
+
+- Dennis
+
+- Maïlys
+
+- Namrata
+
+- Cindy Evellyn
+
+- Paula
